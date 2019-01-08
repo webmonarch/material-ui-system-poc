@@ -1,0 +1,7 @@
+{
+  "name": "material-ui-system-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eric Webb <eric@webb.codes>",
+  "license": "MIT"
+}
