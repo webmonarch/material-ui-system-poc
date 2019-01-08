@@ -1,5 +1,9 @@
 import React, { Component } from 'react';
-import { unstable_Box as Box } from '@material-ui/core/Box';
+
+import { spacing, palette, typography } from '@material-ui/system';
+import styled from '@emotion/styled';
+
+const Box = styled.div`${palette}${spacing}${typography}`;
 
 class App extends Component {
   render() {
